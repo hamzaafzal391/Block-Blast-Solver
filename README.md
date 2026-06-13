@@ -17,12 +17,3 @@ Open-source asset engine repository for the **Block Blast Solver** framework, ex
 * **Shortcode Utility:** Packaged structure for straightforward embedding options within custom WordPress layouts.
 
 ---
-
-## 🛠️ Deployment Configuration
-
-To bundle this utility into an active WordPress structure:
-
-1. Clone this repository array into your target directory:
-   ```bash
-   cd /wp-content/plugins/
-   git clone [https://github.com/hamzaafzal391/Block-Blast-Solver.git](https://github.com/hamzaafzal391/Block-Blast-Solver.git)
